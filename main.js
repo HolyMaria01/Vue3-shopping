@@ -3,7 +3,7 @@ const app = Vue.createApp ({
         return {
             product: 'Socks',
             image: './assets/image/socks_green.jpg',
-
+            inventory: 100
         }
     }
 })
